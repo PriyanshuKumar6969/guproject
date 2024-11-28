@@ -1,0 +1,26 @@
+# Virtual-Health-Care
+_An Online Medical Consultation Booking System using Java_
+
+**Project Context**
+
+Technology as time pass by modernization and innovation comes along with it. Nowadays, people use this as a platform for almost everything it serves in a variety of ways such as for entertainment, education, information haven. With this, it makes one’s life much easy.  It is in its vital and essential state right now most certainly due to the events and happenings that are currently occurring. Most people stay indoors for their safety and, it is hard to go out and have a medical consultation and checkup like the old days as we enter the phase of the new normal.
+	Health is very important most specially these days that we are in a pandemic and as the world tries to fight against a virus that cannot be seen, and unfortunately as of the moment cannot be treated. But if we try to strengthen and boost our immune system, stay at home, wear a mask, and maintain social distancing, the virus can still be prevented.  In some point, people become sick for other reasons but doctors cannot prioritize and entertain them not only because of the increasing number of covid patients but also their fear that others are carrier of the virus without them knowing. Because of this situation, most of the health facilities and clinics does not accept walk in patients and people should have an advanced medical consultation booking beforehand and by following some health rules and protocols.
+	This program is devised to enable a person or a patient to set their consultation schedule or appointment without having an errand to go outside. With just inputting the patient’s information, date and time, and the doctor they wanted, with just a click they can easily state their business.	
+
+**Purpose and Description**
+
+The program is created for easy access and for a well-organized way of having a medical consultation of a patient. Hence, a patient does not have to wait in lines and for the doctors and clinics. It allows a patient to submit information securely and with much confidentiality.  Lesser errands will be observed once the patient uses this program to book and have their consultation. It will help a lot in terms of the safety and well-being of the patients because we are still amid the pandemic and, we need to assure the welfare of everyone.
+	Virtual Health Care will let both the patients and admins to access the program by just simply logging in or through registration when the patient does not have an existing account yet. But for the admins of the clinic or health facility, only some people would be able to log in since there would only be one existing account to all of them. Once the patient successfully logged in, they will then be directed to a page where they can choose from a variety of functions to help them start their booking for the medical consultation. The patient must fill out all the necessary information such as name, address, age, blood type, their medical concerns and other important details needed. Then finally can proceed to the booking of medical consultation wherein it will allow the user to select from different doctors along with their specialization such as general practitioners, ophthalmologist, pediatrician, cardiologist and obstetrician depending on what is available, enter their desired date and time of appointment with the chosen doctor and the mode of payment that they will be using upon booking. In the patient menu, they will also have an access to some reminders of the important health protocols and safety measures needed to be implemented and followed whenever they will go out.
+	On the other hand, with the admin’s access, they will be able to view, update and delete their desired and selected patient records that they will be needing to modify. Also, they will have an access to the history of all the bookings done by the different patients in the system. This will help them track the different data and information that they will be needing from the patient. Here, we also included a short description about the program which will then be found in the about section. 
+
+**Objectives**
+
+With the help of this program, bookings for medical consultation will be more accessible to the community most specially to the people who struggles to book for one because of the unavailability of most hospitals nowadays. This gives the people a wider access to different doctors near them without having to worry that they might be rejected for the consultation because of the situation we are in right now. 
+1.	To understand how this program will be beneficial to the community.
+2.	To determine the problems that may arise with the program.
+3.	To develop a program that will help a patient to have a safer consultation.
+4.	To create an accessible and well-organized program consultation and booking system.
+
+**Scope and Limitations**
+
+The program mainly focuses on the patient’s booking and consultation. With this, anyone with health issues and queries will serve as the user as well as the admin of the system. This program is devised only for the persons or patients that want to have a medical consultation and would have to select the date, time, and the doctor that they desired to visit.
